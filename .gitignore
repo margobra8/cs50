@@ -1,0 +1,12 @@
+# Ignorar todo
+*
+
+# Excepto
+
+!.gitignore
+!*.c
+!*.h
+
+# Subdirectorios tamién
+
+!*/
